@@ -1,3 +1,4 @@
+- [] **Basic Animation with useFrame Hook**: Animates a 3D object (a bouncing sphere) using the `useFrame` hook for per-frame updates.
 - [] **Basic 3D Cube Renderer**: Renders a rotating cube with basic ambient and directional lighting.
 - [] **Simple 3D Scene with Shapes**: Creates a scene containing different geometric shapes (spheres, cubes, pyramids) with random colors.
 - [] **Basic OrbitControls Implementation**: Adds interactive camera controls using `@react-three/drei`'s `OrbitControls`, allowing users to orbit, zoom, and pan the scene.
